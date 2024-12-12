@@ -7,7 +7,7 @@
 # HOST-SUFFIX: 24
 # IP-ASN: 1
 # IP-CIDR: 2
-# TOTAL: 36
+# TOTAL: 37
 HOST,browser-intake-datadoghq.com,OpenAI
 HOST,chat.openai.com.cdn.cloudflare.net,OpenAI
 HOST,gemini.google.com,OpenAI
@@ -17,6 +17,7 @@ HOST,openaicomproductionae4b.blob.core.windows.net,OpenAI
 HOST,production-openaicom-storage.azureedge.net,OpenAI
 HOST,static.cloudflareinsights.com,OpenAI
 HOST-SUFFIX,ai.com,OpenAI
+HOST-SUFFIX,sora.com,OpenAI
 HOST-SUFFIX,algolia.net,OpenAI
 HOST-SUFFIX,api.statsig.com,OpenAI
 HOST-SUFFIX,auth0.com,OpenAI
